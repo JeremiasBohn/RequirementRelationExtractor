@@ -1,0 +1,200 @@
+ID,labeling
+683, O O O O 1 1 O r 2 2 2 2 2 2 2 2 2 2 2 2 c c c O
+455, 1 1 O O O O O r 2 2 2 2 2 2 c c c c c c c c c c O
+1225, c c c c c c c c c c c c c c c c O 1 1 1 O r 2 2 2 2 c c c c c c c c c c c O
+847, 1 1 1 1 1 1 1 O r 2 2 2 2 2 2 O
+160, 1 1 O r 2 2 2 r c c c c c c c c c c c c c c c c c c c c c c c O
+902, 1 1 1 c c c c c c c c c c c O r r r c c c c c c c O
+25, r 1 1 1 1 1 1 1 c c c c O
+66, 1 1 O O O O O r r r r 2 2 2 2 2 c c c c c c O
+1309, 1 1 O r 2 2 2 2 2 2 2 c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+1178, 1 1 1 O O r 2 2 2 2 O
+1270, 1 1 1 1 O r r 2 2 2 2 2 2 c c c c c O
+546, 1 1 O O O O O r 2 2 2 2 2 2 2 c c O
+1386, 1 1 O O c c c c c c c c c c O c c c c c c O r 2 2 2 c c c c c c c c O
+485, 1 1 O r O r O O r 2 2 c c c c c c c c c c c c c O
+24, 1 1 O r 2 2 2 2 c c c c c c c c c c O
+700, 1 1 O c r 2 2 2 c c c c c c c c c c c c c c c c O
+1358, 1 1 O r 2 2 2 c c c c c c c c c c c c c c c c c c c c O
+1123, 1 1 O O O O O c r 2 2 c c c c c c c c c c O
+1455, 1 1 O r 2 2 2 2 2 2 c c c c c c c c c c c O
+645, c c c c c c c O 1 1 O r 2 2 2 2 2 2 2 r O c c O O r 2 2 2 c c c O
+411, O O O O 1 1 O r r r r r 2 2 2 O 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 O
+1615, 1 1 O O O O r 2 2 2 2 2 2 2 O
+1530, O O O r O 1 1 1 O r 2 2 2 2 2 c c c c c c c c c c O
+1388, 1 1 O r r r r r r O 2 2 2 2 O c c c c c c c c c c c c c c c c c c c c c c c c c c O
+1180, 1 1 1 O r r O 2 2 O
+1323, O O O O 1 1 O r 2 2 2 c c c c c c c c c c c c c c c O
+369, 1 1 O O O O r 2 2 2 2 2 O O r r 2 2 2 2 O
+1430, 1 1 O O O O O r O 2 2 2 2 2 2 2 2 O c c c c c c c c c c c c c c c c c c c c c c c O
+1394, O O O O 1 1 1 O r 2 2 2 c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+1444, 1 1 O r r r O 2 2 2 O r 2 2 2 2 2 2 2 2 2 2 O O 2 2 2 2 2 2 O c c c c O
+1073, 1 1 O r 2 2 2 c c c c c c c O
+598, c c c c c O 1 1 1 O O O O O c c c O r 2 2 2 2 2 2 2 2 c c c c c c c c c c O
+716, c c c c c c c c c c c c c c c c c c c c c O c 1 O r r O
+389, 1 1 O O O O c r 2 2 2 O 2 2 2 2 2 c c c c c O
+926, 1 1 O r 2 2 2 2 2 2 2 2 c c c c c c c c c O
+1490, 1 1 O r 2 2 2 2 2 2 c c c c c c c c c c c c c c c c c O
+463, 1 1 O O O O O r r r r r O c c c c c c c O 2 2 c c c c c c c c c O
+242, 1 1 O r 2 2 c c c c c c c c c c c c c c c c c O
+1547, 1 1 O r 2 2 2 2 2 2 c c c c c O c c c c c O c c c c c c c c O
+763, 1 O r 2 2 c c c c c c c c c c c c c c c O
+1465, 1 1 O r 2 2 2 2 2 2 2 2 c c O c c c c c c c c c c c c c c c c c c c O
+960, 1 1 1 1 O r 2 2 c c c c c O
+193, 1 1 r 2 2 2 2 2 2 2 2 O
+1437, 1 1 O r O 2 2 c c c c c c c c c c c c c c c c c c c O
+445, c c c c c c c c c O 1 1 O r 2 2 2 c c c O
+294, 1 1 O r O 2 2 2 2 O
+493, 1 1 O O O O c r 2 2 2 2 2 c c c c c O
+884, 1 1 O O r O 2 2 2 c c c c c c c c O
+714, c c c c c c c c c c O O c c c c c c O O c c c c c c c c c c O 1 1 O r 2 2 2 2 c c c O O O O O
+88, 1 1 O r 2 2 2 O
+1278, c c c O 1 1 1 O r 2 2 2 c c c c c c c c c O
+52, 1 O r 2 2 O r 2 2 O O r 2 2 2 2 2 O
+1, 1 1 O O r O O O c c c c c c c c c c c c c c c c O
+972, O O O O 1 1 O r 2 2 2 2 2 2 2 c c c c O
+770, c c c c c c c c c c c O 1 O r 2 2 c c c c O
+1245, c c c c c c c c c c c c c c O 1 O r 2 2 2 2 2 2 2 2 O
+1289, 1 1 1 r 2 2 2 c c c c c c O
+1516, 1 1 O O c c c c c O r 2 2 2 2 c c O O r 2 2 2 2 2 c c c c c c c c c c c c O
+699, 1 1 O r 2 2 2 2 2 2 c c c c c c c c c O
+252, 1 1 O O O O r 2 2 2 2 c c c O
+1268, 1 1 O r 2 2 2 2 2 2 O
+760, 1 1 O r 2 2 2 c c c c c c c c c c O
+384, c c c c c c c O 1 1 O r 2 2 2 2 2 2 c c c c O
+1320, 1 1 O r 2 2 2 c c c c c c c c c c c c c c c c c O
+1371, 1 1 O r 2 2 O r 2 2 2 c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+1027, c c c c c c c c O 1 1 O r 2 2 c c c c c O
+171, 1 1 1 1 r 2 2 c c c c O
+376, c c c c c O 1 1 1 c c c c c O O r O
+637, 1 1 O c c c c c c c c c c c c O r 2 2 2 O
+84, 1 1 O r 2 c c c c c c O
+824, 1 1 O O r O 2 2 2 c c c c O
+477, 1 1 O r 2 2 2 O c c c c c c c c c c c c c c c c O
+733, O O O O c c c O O 1 1 O r r 2 2 2 2 O
+1283, c c c O 1 1 1 O O r O 2 2 2 O O 1 1 1 O O r O 2 2 2 2 2 O
+198, 1 1 O r 2 2 2 O r 2 2 2 c c c c c c O
+40, O O O 1 1 O O O r 2 2 2 c c c c c O
+284, r 1 1 1 1 1 c c c c c c c c O
+1337, 1 1 1 1 1 1 1 1 r 2 2 2 c c c O
+1071, 1 1 O r O 2 2 2 2 2 2 2 2 c O c c c c c c c c c c c c O
+940, c c c c c c c c c c O O 1 1 O O r 2 2 c c c c c c c c c c c O O r O 2 2 2 O 2 2 2 2 O O 2 2 2 2 O
+931, 1 1 O r r 2 2 c c c O
+1096, c c c c c c c c c c c c c c c c c c O 1 1 1 1 1 O O r O 2 2 2 O
+1057, c c c c c c c c O 1 1 O r 2 2 c c c c c c c c c O
+1622, 1 1 1 O r 2 2 c c c c c c O
+374, c c c c c O 1 1 1 1 1 1 1 1 O O r O
+414, 1 1 O c r 2 2 2 2 2 2 2 c c c c O
+401, 1 1 O O O O O r 2 2 2 c c c c c c O
+1496, 1 1 O r 2 2 c c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+147, 1 1 O O O O r c c O
+451, 1 O r 2 2 c c c c c c c c O
+907, 1 1 1 1 1 O O r r c c c c c c c c c c O
+1037, c c c c O 1 1 O O r O
+852, 1 1 1 1 O r 2 2 O
+1396, O O O O 1 1 1 O r 2 2 c c c c c c c c c c c c c c c c c c c c O
+885, O O O O O r 1 1 1 O 1 1 1 O O r c c c c O
+1480, 1 1 O r 2 2 2 2 2 2 2 2 c c c c c c c c c c c c c c c O
+563, O O O O 1 1 O r O r 2 2 2 2 O c c c c c c c c c O
+1077, 1 1 O r 2 2 2 2 2 2 2 O r 2 2 2 2 2 2 O
+153, 1 1 1 1 1 O O r c c O
+1327, 1 1 O r 2 2 2 2 2 c c c c c c c c c c c c c c c c c c c c O
+297, 1 1 O r 2 2 2 2 c c c c c c c c c c O
+1141, c c c c c c c c c c c c c c c c c c O 1 1 O r 2 2 2 c c c c c c O
+504, 1 1 O O O O c r 2 2 2 2 2 2 2 2 2 O c c O
+688, 1 1 O r 2 2 c c c c c c c c c c c O
+60, 1 1 O O r 2 2 O c c c c c c c c c c c c c O
+465, 1 1 O O O O O r O O O r O c c c c c c c O 2 2 2 c c c c c c c c c O
+984, 1 1 1 1 O r 2 2 c c c c c c O
+1124, 1 1 O O O O r 2 2 c O
+1207, 1 O r 2 2 2 2 2 O r 2 2 c c c c c c c c c c c c c c c c c c c c O
+6, 1 1 O O r O 2 2 2 2 2 2 2 c c c c c c c O
+743, 1 1 1 O r 2 2 2 c c c c c c c c c O
+1298, O O O O 1 1 1 1 1 O O r O 2 2 2 O
+253, c c c c O 1 1 1 O r 2 2 2 O r 2 2 2 2 O
+367, 1 1 O O O O r r 2 c c c O r 2 O r 2 2 2 2 2 2 2 2 O
+1329, 1 1 O r 2 2 2 c c c c c c c c c c c O
+182, 1 1 1 O r 2 2 2 2 2 2 c c c c c c c c c O
+396, 1 1 1 1 O r 2 2 2 2 2 O c c c c c O 2 2 2 2 O 2 2 2 2 O 2 2 2 O O 2 2 2 2 2 2 O
+1198, c c c c c O 1 1 r r 2 2 2 2 2 c c c c c c c c c c c c c c c c c O
+1273, 1 1 1 O r r r c c c c c c c c O
+223, c c c c c c c c O 1 1 1 O r 2 2 c c c c c c c O
+1584, 1 1 O r c c c c c c c c c c O
+740, 1 1 O r r c c O
+326, 1 1 1 1 1 c c c c c c c O O r O O O O O c c c c c c c c O
+652, 1 1 O r r O 2 2 c c c c c c c O
+412, 1 1 O O O O O r 2 2 2 c c c c O
+1512, 1 1 O O O O O r 2 2 2 2 2 2 c c c c c c c c c c c c c c c c c O O O c c c c c c c c c c c c c c c c O
+735, 1 1 O c c c c c c c c c c c O r 2 2 c c c O
+1177, 1 1 O O O O r 2 2 2 c c O
+494, c c c 1 1 1 1 1 1 1 O r 2 O 2 O 2 O 2 2 O 2 2 O O O O 2 2 2 2 O c c c c c c c O
+866, 1 1 1 1 O r r O 1 1 O O r 2 2 c c c c c c c c c c c O
+19, 1 1 O r r 2 2 O
+1341, 1 1 O r 2 2 c c c O r 2 2 2 c c c c c c c c c c c c c c c c c c c c c c c c O
+1348, 1 1 O r 2 2 2 c c c c c c O
+237, c c c c c c c c c c c c O 1 1 O r 2 2 c c c c c O
+711, 1 1 O r 2 c c c c c c c c O
+1374, 1 1 O O c c c c c c c c c c c c c O c r 2 2 c c c c c c c c c c c c O
+766, 1 O r 2 2 c c c c c c c c c c c c c O
+146, 1 1 1 O c c c c c c c c c c c O O O O r c c c c c c c c O c c c O
+1384, 1 1 O c r 2 2 2 c c c c c c c O c c c c c c c c c c c c c c c c O
+1296, O O O O 1 1 O r 2 2 c c c c c c c c c c c c c c O c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+664, 1 1 O r 2 2 c c c c c c c c c c O
+263, 1 1 O O O O O r O r 2 2 2 2 c c c c O
+1210, c c c c c O 1 1 1 1 1 O r O
+184, 1 1 O r 2 2 O 1 1 O O r r 2 2 2 c c c O
+167, 1 O O O O r 2 2 O r 2 c O
+1119, c c c c c O 1 1 O O O O r 2 2 2 c c c c c O
+1084, O O O O 1 1 O r 2 2 2 O
+576, 1 1 O r 2 2 2 2 c c c c c c c c c c c c c c O
+432, 1 1 O O O O O r 2 2 c c c O O r r r r O O r O O r O O O r 2 2 c c c c O
+1426, 1 1 O c r 2 2 2 2 2 2 c c c c c c c c O c c c O c c c c c c c c c c c O
+1545, 1 1 O r 2 2 2 2 2 2 2 O c c c c c O c c c c c c c c c O
+796, 1 1 O r 2 2 c c c c O
+1161, c c c c c O 1 1 O r 1 1 c c c c c c O
+221, 1 c c c c c c O O r c c c O
+803, c c c c c c O 1 1 O O r r 2 2 2 2 O
+651, 1 1 O r 2 2 2 2 2 2 2 c c c c c c c c c c c c c c O
+727, 1 1 O r 2 2 c c c c c c c c c c c c O c c c c c O
+46, 1 r 2 c c c c O c O c c c c c c c c c c c c c c c O
+646, c c c c O 1 1 O O c c c c c c c c c c c c O r 2 c c c c c c c c O
+632, 1 1 O r 2 2 2 2 c c c c c c c c c c c c O
+1117, 1 1 O r 2 2 c c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+110, 1 1 r O 2 2 O
+1037, c c c c c c c c c c c c c O 1 1 O O r O 2 2 2 O
+104, 1 1 1 O r 2 2 2 O r 2 2 c c c c c c c c c c O
+162, 1 1 O r 2 2 c c c c c c O c c c c O
+724, 1 1 O O c c c c c c c c c c c c c c O c c c c c c c c c c c c O r 2 2 c c c c c c c c c c O
+515, 1 1 O r 2 2 2 2 2 c c c c c c c c c O
+1169, 1 1 1 1 1 r c O c O
+125, c c O 1 1 O r 2 2 2 O
+481, 1 O r 2 2 2 c c c c c c c O
+761, 1 1 1 1 O r O 2 2 2 2 2 2 2 2 c c c c c c c c O
+732, 1 1 O r 2 2 c c c c c c c c c c c c c c c c O
+1596, 1 1 O O O O r 2 2 2 2 2 O
+1153, c c c c c c c c c c c c c c O 1 1 1 1 1 1 1 1 1 1 1 1 O O r O
+516, 1 1 O O O O r 2 2 2 2 2 O
+1181, 1 1 O r r c c c c c c c c c c O
+679, 1 1 1 O r 2 2 c c c c c c c O c c c c c c c c c c c c O
+1412, 1 1 1 c c c c c c c c c O r 2 2 2 2 c c c c c c c c c c c c c c O
+296, 1 1 O r 2 2 2 2 O O O O O O O O O O c c c c c O c c c O c c c c c c c O
+566, 1 1 O O O O r 2 2 c c c O O O O O r 2 2 2 2 2 2 O
+422, 1 1 O O O O O r 2 2 c c c O
+941, c c c c c c c c c c c c c O 1 1 O O O O r 2 2 O
+446, 1 1 1 c c c c c c c c c c c c c O O r c c c c c c c O
+1563, 1 1 O r c c c c c c O
+1498, 1 1 O O c c c c c c O r O 2 2 2 2 2 2 2 2 2 c c c c c c c c c c c c c c c c c c O
+908, 1 1 O O r O 2 2 c c c O
+1507, 1 1 O r 2 2 2 2 c c c c c c c c c c c c c c c c c c c c c c c c c c c c O
+20, 1 1 O r 2 2 c c c c O
+1139, c c c c c c c c c c c c c O 1 1 O r O 2 2 2 2 2 2 O
+819, 1 1 O O O O r O 2 2 O
+61, 1 O O r O 2 2 O
+1440, 1 1 O r 2 2 c c c c c c c O
+671, 1 1 O O O O O r 2 c c c c c c c c O
+328, 1 c c c c c O O O O r 2 2 2 c c c c c c c O
+543, 1 1 O O O O O r O c c r 2 2 2 2 2 O
+653, 1 1 O r 2 2 c c c c c c c c c O r 2 2 c c c c O
+478, c c c c c c O 1 1 O r 2 2 2 2 2 2 c c c c c c c c c c O
+623, 1 1 O r r 2 2 2 2 2 2 2 c c c O
+1616, 1 1 O O O O r 2 2 c c c c O

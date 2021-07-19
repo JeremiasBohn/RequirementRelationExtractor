@@ -1,0 +1,465 @@
+Web Store shall operate with the following internet browsers: Microsoft Internet Explorer version 6 and 7, Netscape Communicator Version 4 and 5.
+Web Store shall operate on an Intel based system with Slackware Linux 2.6 and Apache Web Server.
+The solution should provide detailed context-sensitive help material for all the possible actions and scenarios on all user interfaces in the application.
+The help should be accessible to the users both in the offline and online mode.
+The solution should provide an interface for the user to log any defects or enhancement requests on the application and track thereafter.
+The solution should send alerts (via email or SMS) to the user if the user chooses to whenever any action has been taken on the alert.
+The solution should enable the user to track the submitted defect or enhancement request.
+The solution should enable the help-desk user to view the reports on the submitted defects or enhancement requests category-wise, status-wise, and agewise.
+The support solution should be accessible to the users both from within the application and also outside the application through a browser interface.
+An audit trail is a record of actions taken by either the user or the system triggers.
+This includes actions taken by users or Administrators, or actions initiated automatically by the system as a result of system parameters.
+The System must keep an unalterable audit trail capable of automatically capturing and storing information about all the actions that are taken upon the critical entities in the system.
+The System must keep an unalterable audit trail capable of automatically capturing and storing information about the user initiating and or carrying out the action.
+The System must keep an unalterable audit trail capable of automatically capturing and storing information about the date and time of the event.
+The System must keep an unalterable audit trail capable of automatically capturing and storing information about administrative parameters.
+The word "unalterable" is to mean that the audit trail data cannot be modified in any way or deleted by any user.
+It may be subject to re-department and copying to removable media if required, so long as its contents remain unchanged.
+Once the audit trail functionality has been activated, the System must track events without manual intervention, and store in the audit trail information about them.
+The System must maintain the audit trail for as long as required, which will be at least for the life of the case to which it refers.
+The System must ensure that audit trail data is available for inspection on request, so that a specific event can be identified and all related data made accessible, and that this can be achieved by authorised external personnel who have little or no familiarity with the system.
+The System must be able to export audit trails for specified cases (without affecting the audit trail stored by the System).
+This functionality can be used by external auditors who wish to examine or analyse system activity.
+The System must be able to capture and store violations (when a user attempts to access a case to which he is denied access), and (where violations can validly be attempted) attempted violations, of access control mechanisms.
+The System must at a minimum be able to provide reports for actions on cases organised by case, by user and in chronological sequence.
+The System should be able to provide reports for actions on cases organised by workstation and (where technically appropriate) by network address.
+The System must allow the user to limit access to cases to specified users or user groups.
+The system should provide for role-based control for the functionality within the system.
+The System must allow a user to be a member of more than one group.
+The System must allow only admin-users to set up user profiles and allocate users to groups.
+The System should allow a user to stipulate which other users or groups can access cases.
+The System must allow changes to security attributes for groups or users (such as access rights, security level, privileges, password allocation and management) to be made only by super-user.
+If a user requests access to, or searches for, a case which he does not have the right to access, the System must provide one of the following responses (selectable at configuration time): display title and metadata, display the existence of a case but not its title or other metadata or do not display any case information or indicate its existence in any way.
+If a user performs a quick or advanced search, the System must never include in the search result list any record which the user does not have the right to access.
+If the System allows users to make unauthorised attempts to access cases, it must log these in the audit trail.
+Any access to cases, and all other activities involving the cases and related documents or data should also need to be stored in the audit trail to ensure legal admissibility and to assist in data recovery.
+All error messages produced by the System must be meaningful, so that they can be appropriately acted upon by the users who are likely to see them.
+Ideally, each error message will be accompanied by explanatory text and an indication of the action(s) which the user can take in response to the error.
+The System must employ a single set of user interface rules, or a small number of sets to provide a familiar and common look and feel for the application.
+The System must be able to display several entities (cases, suspects) simultaneously.
+The interfaces must be made customizable or user-configurable to the extent possible.
+Such configurations must be saved in the user profile.
+The System user interface must be suitable for users with special needs; that is, compatible with specialist software that may be used and with appropriate interface guidelines.
+The System must provide End User and Administrator functions which are easy to use and intuitive throughout.
+The System must allow persistent defaults for data entry where desirable.
+These defaults should include user-definable values, values same as previous item and values derived from context.
+Frequently executed System transactions must be designed so that they can be completed with a small number of interactions.
+Where the System employs a graphical user interface, it must allow users to customise it.
+Customisation should include, but need not be limited to menu contents, layout of screens, use of function keys and on-screen colours, fonts and font sizes.
+The user interfaces should be designed to make them user-intuitive.
+The user interfaces of the system should comply with Standard ISO 9241.
+ISO 9241-20 shall be the standard for guidance on ICT accessibility.
+Software accessibility ISO 9241-171 shall be the standard for guidance on software accessibility.
+Content accessibility WCAG 1.0 shall be the standard used for guidance on content accessibility.
+All non-text media objects, such as graphical images or video, should be provided with alternative equivalent textual descriptions and/or with equivalent text-based functionality.
+Navigation should be designed to help users understand where they are, where they have been and where they can go next.
+Each presentation segment (page or window) should provide the user with a clear and sufficient indication of where he or she is in the navigation structure and of the current segment position with respect to the overall structure.
+Alternative access paths for navigating to a specific unit of content should be offered to support different navigation strategies.
+The number of navigation steps needed to reach a certain piece of content should be minimized as long as different mental models, navigation strategies and tasks of the user are taken into account.
+Splash screens should be avoided unless they provide useful content or feedback about the application state to the user.
+If a splash screen is used, a navigation option to skip it should be offered.
+Additional windows such as new browser windows or pop-up windows should only be opened if this supports the user's task.
+Vertical scrolling should be minimized.
+This may be done by placing important information at the top and providing links to information that is further down the page.
+Horizontal scrolling should be avoided wherever possible.
+User interfaces should be designed to allow activation of controls by a variety of input devices.
+The ability to choose between different input devices for activating controls such as links, fields and buttons is important both for users who prefer a certain input mode, mobile users and users with disabilities.
+User interfaces should be designed to be as robust as possible in the face of changing technology.
+This encompasses being able to present content containing newer technologies by older user agents as well as designing content to be usable with future technologies.
+Application pages should be designed and implemented so that there are acceptable opening times and download times for the expected range of technical contexts of use.
+Potential user errors as well as the effort needed to recover from errors should be minimized.
+The content of error messages shown on the pages or special error pages should clearly state the reason why the error occurred and, if possible, actions the user can take to resolve the error.
+Users expect error messages to be in the same language as the user interface.
+When designing user interfaces for use by diverse groups, input and output of information elements such as currency, units of measurement, temperatures, date and time, phone numbers, address or postal codes should be designed so that they are usable.
+Text should be able to be resized by the user, using functions provided by the user agent or other appropriate means.
+The quality of textual content with respect to spelling and grammar should be sufficient so as not to impede readability.
+The reading and understanding of the textual content on the screen should be supported by suitable means, including the use of short sentences, the division of the text into shorter chunks or the presentation of content items in the form of bullet points.
+Fast skimming of text should be supported by the provision of clear links, bulleted lists, highlighted keywords, logical headings, and short phrases and sentences.
+Text presented on the pages should be readable taking into account the expected display characteristics and spatial arrangement.
+ISO 9241-303 shall be consulted for screen text legibility requirements.
+Within-page links should be clearly distinguishable from other links that lead to a different page.
+Text pages containing large proportions of links should be formatted so that the presence of links does not impede the readability of the text.
+Navigation links, particularly links representing the main navigation structure, should be labelled with terms that are familiar to the user, based on his or her general knowledge, prior experience in the application domain or experience of using other systems.
+The target or purpose of a link should be directly indicated by its label, avoiding generic labels such as "go" or "click here" except where the purpose of the link is clear from its context on the page or the labels have commonly understood semantics in the particular application domain.
+Using appropriate terminology specific to the user's tasks and information needs is important for making the content easy to understand.
+Links that open new browser windows or pop-up windows should be clearly marked.
+Navigation links should be clearly distinguishable from controls activating some action.
+If a document is either too long, dispersed over several pages or in a specific layout that is not suitable for online reading, a printer-friendly version of the document should be provided that prints the content in a form acceptable to the user.
+White space on a page should be used in such a way that it does not impair the visual skimming of the page.
+The length of a page should be selected so as to support the primary purpose and use of the page.
+Colour should be used with care, taking into account human capabilities and restrictions in perceiving colour, and not as the only means of conveying information.
+If frames are used, care should be taken to avoid possible problems, for example, those involving the use of the back button, bookmarking of pages, or scrolling of information.
+If frames are used, an alternative way of presenting relevant information without frames should be provided.
+When style sheets and/or frames are turned off it should be possible for the user to read and understand the page; alternatively, the user should be provided with an equivalent alternative text-only page.
+Pages should be designed using consistent layout schemes, supporting the user in finding similar information at the same position on different pages.
+Overall layout schemes apply to all pages and are preferable when all pages have a similar structure.
+Page titles should be placed in a consistent location on the different pages.
+When designing application pages, the general principles of human perception should be taken into account.
+Each page should contain a link leading to the home page of the application or to a landmark page that is easy to recognize for the user.
+A separate navigation overview such as a site map should be provided for application showing the structure of the site in an overview form.
+If navigation components (or overviews) are shown in conjunction with associated content, consistency between the navigation component and the content shown should be maintained by indicating in the navigation component the topic currently visible in the content area.
+Navigation components should be placed consistently on the pages or in the framesets in the pages of the application.
+Adapting the content and the navigation of a user interface to individual users or user groups can be a useful mechanism for providing information that is of interest to the users and for making access to relevant information more efficient.
+User adaptation can also be important for making the user interface more accessible.
+When providing different access paths or navigation structures for different user groups, the tasks and information needs of these user groups should be taken into consideration.
+It should be made evident to the user when individualization and/or adaptation are used.
+If predefined user profiles or user-specified profiles are used for individualizing or adapting content, the profile currently used should be made evident.
+If profiles are used, it is important to provide users with information about this concept and its implications.
+If user-specified profiles are used, users should be able to see, modify and delete that profile on demand.
+The user interfaces of the system should follow the guidelines specified under www.usability.gov.
+The System must be available to users from <xx:00> to <xx:00>.
+The System must be available to users on <all weekdays/xxx days per year>.
+The planned downtime for the System must not exceed <xx> hours per <rolling three month period>.
+The System is considered to be down if any user is unable to perform any normal System function and if this failure is attributed to any component of the System other than the workstation.
+Unplanned downtime for the System must not exceed <xx hours/minutes> per <rolling three month period>.
+The number of incidents of unplanned downtime for the System must not exceed <x> per <rolling three month period>.
+In the event of any software or hardware failure, it must be possible to restore the System (with inline synchronization) within no more than <xx> hours.
+The System must provide adequate response times for commonly performed functions under both standard and peak conditions.
+The System must be able to perform a simple search within 5-8 seconds and a advanced search (multiple search criteria) within 10-15 seconds regardless of the storage capacity or number of cases in the system.
+The System must be able to retrieve and display within 5-8 seconds the case which has been accessed within the previous 2 months, regardless of storage capacity or number of cases in the system.
+The System must be able to retrieve and display within 20 seconds the case which has not been accessed within the previous 2 months, regardless of storage capacity or number of cases in the system.
+The System must be scalable and must not have any features which would preclude use in small or large police stations, with varying numbers of cases handled.
+The plug-in API will be well documented and specifications will be provided to plug-in developers.
+Upon the USB being plugged in the system shall be able to be deployed and operational in less than 1 minute.
+The system shall be able to handle 1000 customers logged in concurrently at the same time.
+The system shall be able to retrieve 200 products per second.
+The system shall be able to add product to shopping cart in less than 2ms.
+The system shall be able to search for a specified product in less than 1 second.
+The system shall be able to email customer and vendor in less than 1 second.
+The system shall be able to validate credit card in less than 2 seconds.
+The system shall be able to acquire shipping charges in less than 2 seconds.
+The system shall be able to restore 1000 records per second.
+The system will do periodic backups through a live internet connection.
+The system shall have an availability of 99.99%.
+The system shall be easy to use.
+The system shall be easy to learn.
+The system shall utilize help bubbles to assist managers, customers, and administrators.
+The system shall employ easy to locate buttons.
+The system shall prompt customer with friend easy to read error messages.
+The system shall utilize consistent symbols and colors for clear notifications.
+The system shall utilize interchangeable plugins.
+The system shall be easily updatable for fixes and patches.
+The system shall create logs of all changes, updates, or fixes that are done to the site.
+The system shall be easy to upgrade.
+The system shall be extremely portable via the usb drive.
+The system shall be easy to migrate or backed up via another usb drive.
+The system should be able to run under debug mode.
+The system should be able to run test credit card transactions.
+The system should be able to run test shipping orders.
+The system should be able to create test environment of weborder system.
+The system hardware shall be fixed and patched via an internet connection.
+It is mandatory that learning time is between 2 to 4 hours at maximum, because many tasks are delegated to working students.
+Web interface should use clear and consistent terminology in such a way that users with basic experience on internet and office find the application easy to use.
+The Application should be available always at working hours.
+Any maintenance or backup operation should be conducted out of working time.
+The Application should be installed in any Microsoft or Unix platform.
+Web application should be available to run on browsers like IE, Firefox, Chrome, Opera or Safari.
+All user are authenticated by user name and a password.
+Permission are assigned to user according to their roles.
+Only IT team member can access and maintain data base servers locally.
+Query is killed if takes more than 1 min.
+Backup operations are executed periodically.
+It is important to design system to facilitated future evolution and facilitate maintenance operations.
+No request for information shall produce a delay of control activities or locking, even if the corresponding equipment is not available or faulty.
+Detector data must be acquired and stored in the most effective way technology will allow.
+In general, operational overheads must be kept as low as possible, to maximize actual observing times.
+The Gemini 8m Telescopes computers and software shall be capable of coping with the load of 10 active nodes.
+Every command must be acknowledged in a positive or negative way before the occurrence of the corresponding action within given response times.
+The user interface tools shall be based on standards which will be portable across different computer hardware platforms.
+The standard software must be adequate for the real-time requirements and must offer drivers to the standard electronics to be used on all the Gemini 8m Telescopes software subsystems and instruments.
+The output format of the Gemini 8m Telescopes data must be compatible with the GEMINI archive requirements.
+The LAN shall support the majority of the Gemini 8m Telescopes system internal communication needs.
+This LAN shall be supplemented with a Local Time Bus, for distribution of absolute and relative time signals, and both a digital reflective memory bus and an analog event-based bus, for distribution of signals with requirements not satisfied by a LAN.
+To allow coordination both locally at the Gemini 8m Telescopes site between the various users and with remote users, the software shall support access to the system from any user station.
+Computer hardware must be able to run the Gemini 8m Telescopes software environment (operating systems, Gemini 8m Telescopes software) and provide compatibility in data format (identical internal data representation).
+Computers used at the Gemini 8m Telescopes site, particularly in the test phase when they are outside the control room and near the subsystem under test, shall be checked against altitude and humidity specifications for the Gemini 8m Telescopes site.
+Common development and implementation tools must be both available and supported.
+Identical network access must be supported.
+Local processing power must be such that telescope and instrument control does not represent a significant overhead in the whole process of executing an observing program.
+Existing software expertise should be consulted whenever possible.
+All software which does not directly control specific hardware must be written as machine independent, portable code.
+Online version control must be implemented.
+That is, the version control system must be available to recover and restore versions at all times.
+At boot time, the Gemini 8m Telescopes software shall check the consistency of versions of all the various software components.
+Table-driven software should be used whenever possible, to avoid unnecessary compilations.
+Changing system constants, such as arcseconds/bit for an encoder, shall not require recompiling but will be updated as part of system startup, and, for some constants, will be modifiable during operation.
+The GSR sets as a requirement 2% and a goal 1% for total system downtime due to failures - this translates to a maximum of 15 minutes per night or 1 night per month of downtime.
+To guarantee maximum availability of the control system, retry procedures must be embodied in the software in case of error or failure.
+Should recovery also fail, the error or failure has to be reported in a clear form (to identify the cause of the problem) and the system shall put itself into a safe state, whenever a safety aspect might be involved.
+The goal for recovery and/or reconfiguration is 5 minutes from onset of the error condition to observing again.
+All equipment shall support a programmed adjustment and maintenance interval of 30 days or longer.
+The Gemini Control System development effort will obey and abide by both the letter and the spirit of all applicable engineering practices, laws, regulations, and policies.
+The astronomical database must be protected from intrusion, whether the purpose is to access private data or to be destructive.
+There should be security preventing the intrusion into the system by unauthorized users, or users at unauthorized access levels.
+The software is to be designed to be easily extended and upgraded with modifications to non-changing components.
+The software itself, its installation process, and its documentation must be developed with this expandability in mind, using general industry standards.
+Access times to the database are to be in the range of 2-3 msec per access.
+Asynchronous writes are to be supported, allowing for concurrent operation.
+There is to be a consistent and logical access method.
+The database must support both remote access and distributed data.
+Cold start-up, starting the system from scratch (including time to download all software) should take about 5 minutes.
+Warm start-up, starting from scratch but also excluding software download time should take about 1 minute.
+Telescope start-up, measured from end of cold or warm start-up should be about 4 minutes.
+Instrument start-up, measured from end of telescope start-up, should take 2 minutes or less.
+It must be possible to log engineering data at up to 200 Hz rates for short periods of time.
+All errors should be reported using a common, system-wide procedure.
+The development operating system is UNIX System V, Release 4, using only POSIX compliant calls to the operating system.
+Any special needs that cannot be acceptably met by the available operating system calls are to be discussed with the GPO on a case-by-case basis.
+The GUI systems are to use X-windows, version 11, release 5 (X11R5) or release 6 (X11R6).
+The principle language for developing GUIs is Tcl/Tk.
+The GNU software tool suite should be used where possible.
+CVS is the recommended version control system.
+The IOCs will use the real-time operating system VxWorks (from Wind River Systems).
+The communication interface between the IOCs and Unix workstations is to be IMP.
+It is assumed that all IOC software is to be developed on Unix workstations in a windowed development environment.
+The cross-compiler to be used for IOC software development is one specified by the Gemini Project.
+It is the GNU cc compiler as furnished with VxWorks.
+The host workstation operating system is Unix, currently baselined as Solaris 2.3 or above.
+Communication hardware independence is accomplished by using the DARPA TCP/IP communication protocol over LAN's and the WAN.
+The communication software must support the standard ARPA services (telnet, FTP, SMTP, etc) as well as NFS, RPC, IPC, and the Unix socket interface library.
+The software interface between workstation and IOC is to use DRAMA's IMP protocol for all control communication, using SDS as the command structure.
+Interprocess communication on the host workstations is through the same IMP protocol.
+Communications between real-time components is to based on the EPICS Channel Access protocol.
+Data communications are typically through IMP/SDS.
+Quick-look analysis will be through PV-Wave/IDL.
+Data storage and transport for astronomical data will be in FITS format.
+On-line access to the archiver will be through STARCAT.
+It is assumed that workstations support Ethernet IEEE-802.3 and FDDI interfaces for communications.
+SCSI-interface peripherals are to be available.
+The developmental workstations are to be SUN SPARC-10 (model 41) or SPARC Classic with 64MB of dynamic memory.
+Workstations are to have at least 2GB of disk.
+Establish acceptable naming convention not to be in conflict with the DOD data standards convention and establish a relationship to other naming conventions.
+The Registry software shall be portable and required to execute on COE-compliant platforms.
+The XS developer is responsible for software maintenance, software support, and software updates.
+The DISA Configuration Manager (CM) is responsible for distribution of the XS product to system developers.
+The potential users of the MultiMahjongClient product will be anyone who enjoys playing or is interested in the game of Mahjong.
+The product is aimed at users who have a basic knowledge how to operate a PC, Macintosh or Unix box.
+Users who wish to play multi player Mahjong will not need to have advanced knowledge of TCP/IP networking.
+Prior knowledge of Mahjong rules is not necessary, as the product will be designed for both players with some or no experience.
+The user of the MultiMahjongServer will most likely have general knowledge of a Web Server environment.
+The user will need to know how to set-up and operate a TCP/IP server.
+The user will understand the basic principles of networking and know any networking information associated with the server the MultiMahjongServer program is run on.
+The MultiMahjong system is to be written using JDK 1.2.
+The coding standard will be the same as that suggested by Sun Microsystems.
+Multiple languages will be supported using Java's Unicode standard.
+The software will run on any machine that is capable of running a Java Virtual Machine that supports JDK 1.2.
+The CO must respond within 1 minute in both single and multi player modes.
+The MultiMahjongServer must be able to handle requests in multi player mode of up to 10 simultaneous games with a maximum of 40 players.
+The MultiMahjongClient must be able to calculate possible Chow, Pung, Kong, and Mahjong moves within 5 seconds of being informed of the last discard.
+The MultiMahjongServer will have no graphical user interface and will be run using a command prompt.
+The MultiMahjongServer will have a graphical user interface with which the administrator of the server can get log information and change game settings.
+The MultiMahjongClient will have a graphical user interface that the user will be able to interact with using a mouse and a keyboard.
+The GUI is to be contained within a screen resolution of 800 x 600 pixels.
+All graphics will be in 16 bit colour.
+When a button becomes active, it will use animation to get the user's attention.
+When a player performs a Chow, Pung, Kong or Mahjong, the tiles involved will be animated.
+The user may click in the frame that contains the remaining wall and a frame showing the discarded tiles will be shown.
+When executing in the Normal Startup Mode, the TCS shall provide the system functionality necessary to initialize the system to place it in the Operations State within 60 seconds from the time power is supplied and the TCS application is launched.
+The TCS in the Recovery Startup Mode shall provide the system functionality to resume the Operations State within 45 seconds.
+The TCS shall be capable of storing a minimum of 500 mission plans under unique names to allow for later retrieval.
+The TCS shall provide the system functionality necessary to upload a flight route plan and payload plan to the AV via the selected system data link as well as direct ground connection.
+The algorithmic accuracy of all flight planning calculations shall not deviate by more than 10% when compared with a mission flown by a validated 6 degree-of-freedom air vehicle simulator.
+The TCS shall provide the capability of displaying overlays each containing 100 simultaneous icons.
+The TCS shall be capable of displaying the positions of the icons in Lat./Lon., Universal Transverse Mercator, and Military Grid Reference System formats and provide conversion to multiple spheroid scales.
+The TCS shall provide the necessary system capabilities required for AV flight control BLOS via uplink command to two MAE air vehicles.
+The TCS shall provide the necessary system capabilities required for payload control beyond line of sight via uplink command of two air vehicles of the same type using sequential communication techniques.
+The TCS shall provide the system functionality necessary to record data obtained via the data link.
+The TCS shall be able to store up to 24 hours of payload data.
+The TCS shall allow authorized operators to install software upgrades via CD-ROM as well as other media storage devices.
+The TCS shall support a concurrent uplink and downlink capability.
+The TCS shall be designed such that no single hardware failure results in an unsafe command to be transmitted to the air vehicle.
+The TCS shall be designed such that no single software error results in an unsafe command to be transmitted to the air vehicle.
+The TCS shall be capable of restoring power in sufficient time to avoid loss of air vehicle control during power outages.
+The TCS shall monitor the uplink and downlink to each UAV under its control.
+Upon detection of loss of link, the TCS shall attempt to reestablish communications with the air vehicle.
+The TCS design shall provide protection against injury to TCS operators and maintenance personnel.
+System safety and health hazards, if any, shall be identified and evaluated during Phase I of the TCS development.
+Risk levels and a program to manage the probability and severity of hazards shall also be developed.
+The TCS shall be accredited by the Designated Approving Authority prior to processing classified as well as sensitive unclassified data.
+Links that provide communications between the TCS and other systems shall be secured in a manner appropriate for the sensitivities of the material passed through such links.
+The TCS shall be designed to protect its communication and data links against enemy Electronic Warfare threats, physical anti-radiation weaponry and physical destruction.
+The TCS shall be approved for operation at the same level as the systems with which it interfaces.
+The hardware of the TCS shall be capable of being scaled as well as being modular to meet the varying needs of the Services.
+The TCS hardware shall allow for long range communications from one TCS to another, data storage expansion, access to other computers to share in processing capability, and multiple external peripherals.
+The TCS hardware shall support the data rate characteristics of the AV, data link and payload to ensure interoperability.
+For each Outrider system, the TCS shall provide full independent computer redundancy.
+The TCS shall have sufficient throughput to support the processing requirements of the selected data link.
+To meet growth requirements, the TCS shall be capable of adding additional storage without major hardware reconfiguration.
+The TCS shall use standard military worldwide 110/220 volt 50/60 hertz generators and commercial power sources.
+The TCS shall use standard electrical power sources available within the DoD family of ground mobile, airborne, and shipboard electrical power sources.
+The TCS shall be capable of restoring power in sufficient time to avoid loss of critical mission data and loss of air vehicle control during power outages.
+The TCS shall have an uninterrupted power supply for critical phases (landing and takeoff as a minimum) of mission execution.
+The TCS throughput shall not exceed 50% of the throughput capability delivered over any 10 second period, and as an objective, throughput shall not exceed 25% of throughput capability delivered over any 10 second period.
+The TCS shall be capable of providing a 50% spare memory storage capacity over delivered storage used.
+As an objective, a 75% spare memory storage capacity over storage used shall be provided.
+The TCS data latency shall not be greater than that present in the Predator ground control station or Outrider ground control station, whichever is smaller.
+The TCS reliability will be considered in every phase of the design and development process and shall achieve a system reliability equal to or greater than that which is specified in the Predator and Outrider ORDs.
+The TCS maintainability will be considered in every phase of the design and development process and shall achieve a system maintainability equal to or greater than that which is specified in the Predator and Outrider ORDs.
+The total, fully useable, addressable, physically present program instruction memory and data storage memory for each processor shall have at least 50% unused memory during the Normal Operations Mode over any 10 second period.
+The processing speed of each processor shall be such that at least 50% of the throughput of each processor remains unused over all 10 second periods and at least 20% of the throughput of each processor remains unused over one second periods regardless of the system function performed.
+The I/O channel reserve capability for each processor shall have at least a 50% reserve, addressable and usable, I/O channel capacity over any 10 second period.
+TCS software flexibility and expandability shall be provided through use of the DII COE and through use of standardized software development practices.
+System Initialization shall synchronize the FCP virtual group in the presence of a power on skew of 2.5 seconds.
+System Initialization, from hardware reset to starting of the 50 Hz timer, shall take no longer than 1.5 minutes.
+The scheduler shall complete the change from one vehicle mode to the next within 1.02 seconds.
+The scheduler shall take no longer than 1 millisecond to execute scheduler and Time Services FTSS overhead tasks in each rate group.
+The scheduler shall provide rate groups that execute at 50 Hz, 10 Hz and 1 Hz, with a drift rate no greater than 50 microseconds per second, and with a jitter no greater than 330 microseconds.
+Communication services shall detect a babbling NE or ICP within 20 milliseconds of the receipt of the first erroneous packet.
+FTSS shall mask out a babbling NE or ICP within 40 milliseconds after it is detected.
+Continuous BIT, in conjunction with Redundancy Management and Scheduler operations running in the 50 Hz rategroup after the application tasks, shall take less than 2 milliseconds under nominal no-fault conditions.
+Continuous BIT, in conjunction with Redundancy Management and Scheduler operations running in the 50 Hz rategroup after the application tasks, shall take less than 3 milliseconds while processing faults.
+Continuous BIT shall diagnose the faulty FCR within 1 second after detecting a failure.
+RAM scrub shall be capable of scrubbing at least 10 megabytes every 8 minutes, given at least 1% of the CPU is available for this processing.
+Redundancy Management shall degrade the FCP virtual group within 3 minor frames of fault detection and isolation.
+From the time that the FCR failure has been identified, if the components of the FCR are recoverable and alignment is permitted, to the time the FCR is recovered, shall be no more than 1.5 minutes.
+Memory alignment shall take no more than 1 second per Megabyte of data to be realigned.
+The Mission Elapsed Time shall have a drift rate of at worst 50 PPM.
+The Mission Elapsed Time shall not rollover for 30 days.
+The Separation Elapsed Time shall not rollover for 1 day.
+The Separation Elapsed Time shall have a drift rate of at worst 50 PPM.
+The utility timer shall have an accuracy equal to or better than 50 PPM.
+The utility timer shall have a resolution equal to or better than 60.6 nanoseconds.
+The telemetry capability shall be capable of transferring 12,800 bytes within the 10 Hz frame from the FCP.
+Support Services shall use no more than 5.2 milliseconds of FCP processing time to move the telemetry data to the FCC-MPCC board and complete communication and error handling for the FCC-MPCC board.
+The FTSS shall execute on the Radstone Power PC 604R.
+The FTSS software and the VxWorks operating system, together shall utilize no more than 3 megabytes of ROM.
+The largest single block of data transmitted on the VME Bus by the FTSS shall transmit in no longer than 100 microseconds.
+All FTSS data provided for telemetry shall fit within the allocated budget of 5000 bits per second.
+In addition, the FTSS software shall provide up to 600 bits of startup data that indicates the state of the FTPP system during startup.
+The FTSS software shall be written in the C programming language.
+FTSS shall use the VxWorks Operating System version 5.4.
+The FTSS software and the VxWorks operating system shall utilize no more than 9 Megabytes of DRAM code and data space.
+Of the 9 Megabytes of DRAM allocation, only 4 Megabytes of FTSS and VxWork's DRAM shall be realigned during any realignment attempts.
+FTSS shall be compiled, linked and downloaded using Tornado 2 for the NT environment prior to delivery, for all engineering and formal releases.
+FTSS object modules linked to the application on the four FCPs shall be identical.
+After initial synchronization, the FCPs shall remain synchronized until a hardware fault occurs.
+FTSS deliveries shall be made using CD ROM media.
+The Remote Control GUI will execute as a local application on a PC.
+The C2C Server shall execute in a Microsoft Windows NT environment.
+A DATEX/ASN runtime library shall be available on any computer communicating to the C2C project.
+The web server application shall use ESRI's ARC Internet Map Server product for creating of map images.
+The C2C shall execute in a Microsoft Windows NT environment.
+The C2C shall be implemented in the C/C++ programming language.
+The C2C web interface shall be implemented using C/C++ and ESRI ARC IMS.
+The Incident GUI shall be implemented using C/C++ and ESRI Map Objects.
+The Remote Control GUI shall be implemented using C/C++ and ESRI Map Objects.
+The services will typically be based on a requesting system connected to the public telephone network.
+The system must be flexible in supporting future requirements and future developments.
+The communication system shall be based on open and widely accepted methods with a high degree of interface possibilities.
+Faults in the communication system shall not cause malfunction of an individual wind turbine.
+Updating of values shall be selectable down to an interval of 1 second.
+The accuracy and resolution of the timestamp should be at least 10 ms.
+The response times of most operational functions and, therefore, of the related communication does not need to be much faster than one second.
+Delay in execution of these functions, however, should not be more than 2 seconds.
+The overall transfer time for services in time critical functions shall not be more than 0.5 seconds.
+Local procedures for recovery may incorporate redundancy of selected functions and backup of data.
+Processing of data may be carried out simultaneously on more units.
+The protocol shall have such flexibility that new data can be defined without disturbing old versions of equipments that comply to a specific version of the specification.
+For the HMI, such information shall be contained in the device using standard readable text.
+All analogue process values shall be accessible in standard SI-units or other physical units.
+For averaged values, the accuracy of the start time of the period shall be better than 10 ms.
+The size of the buffers for analogue values shall correspond to a time span starting at 1 minute before a triggering and ending at 1 minute after a triggering.
+The buffer depth shall be at least one year.
+The buffer depth of the event log shall be at least one year.
+The buffer size for every counter shall be at least 20 years of operation with 5000 full load hours per year.
+The network is based on Ethernet standards and procedures.
+The network shall operate on TCP/IP standards and procedures.
+The system shall allow for several protocols and procedures simultaneously on the same network.
+The communication system should guarantee with a specified availability that messages are received in the same order as they are sent.
+There shall be a UNIX-based APAF system development computer.
+There shall be a UNIX-based APAF system production computer with an archival system.
+There shall be a web server for the APAF system.
+There shall be a network connection between SwRI and NISN.
+SwRI shall provide APAF system maintenance.
+SwRI shall provide software support for the APAF system.
+ASPERA-3 IDFS data that are electronically distributed shall be provided to the ASPERA-3 Co-Is within 24 hours of acquiring ASPERA-3 telemetry as long as the transmission and processing are error-free.
+MEX OA IDFS data that are electronically distributed shall be provided to the ASPERA-3 Co-Is within 24 hours of acquiring ASPERA-3 telemetry as long as the transmission and processing are error-free.
+Any APAF-generated intermediate files of ASPERA-3 and MEX OA cleaned-up telemetry that are electronically distributed shall be provided to the ASPERA-3 Co-Is within 24 hours of acquiring ASPERA-3 and MEX OA telemetry as long as the transmission and processing are error-free.
+ASPERA-3 IDFS data and MEX OA IDFS data shall be provided to NASA PDS.
+ASPERA-3 data shall be provided to NASA PDS no later than 6 months after acquisition.
+How the ASPERA-3 and MEX OA data and exactly what data sets are to be distributed to each Co-I shall be determined by the needs and resources available six months prior to MEX launch.
+Users of the HATS-GUI will be experts in a given domain and have a high level of understanding of transformations as a tool for constructing software.
+The system shall be platform independent and function properly on any operating system.
+Specifically, the system shall be tested under Sun Solaris, Windows 2000, and Linux.
+It is intended for the system to run under any variation of the Microsoft Windows operating system later than Windows 95.
+The system shall be designed in such a way as to minimize the number of windows opened by the application.
+The system shall be developed using the Java programming language.
+The system shall be completed by December 2001.
+A JVM shall have been installed on the system under which the HATS-GUI is running.
+An ML interpreter shall have been installed on the system under which the HATS-GUI is running.
+HATS shall run on the same system on which the HATS-GUI is running.
+HATS shall support only one user at a time.
+Users shall have a high level of sophistication and shall not need guidance in the form of extensive help messages.
+The Host OS shall support a hierarchical, tree-structured file system.
+The development team shall use this SRS to implement the system.
+HATS-SML version 2.0 shall be available by October, 2001.
+The HATS-GUI shall be able to communicate with Sun Solaris, Linux, and Windows 2000.
+Data sets shall be saved as files using file names with the appropriate extensions.
+These time stamps must be reported with a precision of one second or less.
+The user shall be able to resize windows dynamically.
+When displayed graph windows are resized, the HATS-GUI shall respond by utilizing the space available.
+The HATS-GUI shall display and SDT with 10,000 nodes in five seconds or less.
+The HATS-GUI shall display 1,000,000 node SDTs in the same amount of time, plus or minus two seconds, as it takes to display a 10,000 node SDT.
+The HATS-GUI shall allow a user to request transformations while HATS-SML is performing transformations or parsing.
+The HATS-GUI shall allow a user to navigate through the display of an SDT with 10,000 nodes so that scrolling a screen width with any portion of the SDT displayed takes less than 3 seconds.
+The complexity of the text search algorithm shall not exceed O(n2) for n nodes.
+The complexity of the tree search algorithm shall not exceed O(n2) for n nodes.
+The complexity of the scrolling algorithms for text and displayed graphs shall not exceed O(n2) for n displayed nodes.
+The user shall not be required to log in or authenticate his or her identity when using the system.
+The GUI shall run on Windows 2000, Sun Solaris 8, and Linux operating systems without modification of the Java code.
+The system shall be implemented in the Java 1.3 programming language.
+The scheduler will not support job migration for the purpose of decreasing resource fragmentation.
+There will be a maximum of 1 bug/KLOC.
+In case of system outage, the cluster will be down while the Linux operating system boots up.
+This will take less than five minutes.
+The Libra scheduler will ensure the privacy of user job status and ensure full control over job execution, so that alteration of scheduling criteria or actual resource allocation is not possible without administrator authority.
+The maximum response time for the submission of a job will be 1 minute.
+The maximum number of jobs schedulable is limited only by the capacity of the nodes to fulfill the jobs' deadlines.
+Assuming submitted statistics for jobs are accurate, the Libra scheduler will ensure that all jobs are completed with a 10% error allowance.
+Under all circumstances, the maximum cost payable as submitted by the user will be the maximum cost charged to the user.
+All code will be written as specified by the Hungarian Naming Convention.
+All code will be written as required by the GNU General Purpose License.
+The Libra scheduler will be a sub-component of SGE.
+All coding will be done in standard C.
+NPAC SMS shall synchronize its system clock using NTP to a Stratum 1 host.
+This product will be as graphically oriented and appealing as possible.
+No portion of the interface will require the keyboard an all input will be accomplished via mouse clicks.
+This software will be developed in Macromedia Flash and HTML.
+This product requires a web browser capable of running the Flash plug-in.
+The product will be as secure as the web browser that will run the product.
+The product will be available over the Internet via the S2S website.
+Reliability will be ensured by extensive testing by the team members and mentors, if available.
+The Backend System shall maintain input data fidelity and dynamic range across all processing, manipulation and I/O functions.
+The system shall be capable of flagging and marking corrupted data segments and proceeding without interruption or effect on other data.
+The BE System shall be capable of accepting an aggregate data input stream from the Correlator of a minimum of 1.6 Gbytes/second.
+The BE System shall be capable of delivering an output data stream to the E2E System of a minimum of 25 MBytes/second.
+The total processor capability of the BE System shall be sufficient to accomplish all processing tasks while avoiding loss or delay on the input and output data streams.
+The BE System shall have sufficient memory with sufficient access speeds to accomplish all processing tasks while avoiding loss or delay on the input and output data streams.
+The BE System shall have sufficient storage with sufficient access speeds to meet short duration Correlator bursting demands plus a standby reserve to meet reliability needs and handle outage recovery demands.
+All math or science application software shall take optimal advantage of all language, compiler, and system computational features and resources to reduce run times to the minimum practical level.
+All management software functions shall take optimal advantage of all language, compiler and system features and resources to reduce overheads to the minimum practical level.
+All input and output, storage and retrieval operations shall take optimal advantage of all system resources to reduce overhead and latency to the minimal practical level.
+All data processing functions shall be chainable and repeatable in the processing pipeline in cases where this makes computational sense.
+Operating system, message passing and other middleware, and programming languages used shall follow industry standards and be commonly available and widely used.
+Availability of source code for the OS will be very important.
+The Backend System shall be self-monitoring.
+The software part of the system shall be able to perform without total system restart due to internal failure between array maintenance windows.
+The hardware part of the system shall be able to perform indefinitely without complete loss of service, except in the event of total failure of primary and backup power.
+The system shall be capable of responding in a loss-less manner to I/O and processing changes arising from Correlator mode changes.
+The system shall continue to operate in a loss-less manner in the event of a temporary loss of availability of the E2E System.
+The system shall be able to complete processing of all onboard data, deliver the results to the End-to-End System and maintain availability for immediate resumption of operations once Correlator access is restored.
+The system shall continue to operate during the absence of the M&C System until the first encounter of unavailable critical auxiliary data.
+The system will cache a predetermined amount of correlator data after the first encounter of unavailable critical data and complete all requested operations on cached data once the unavailable critical data is obtained.
+The system shall be able to sit at idle and resume operations with minimal delay.
+All system processing and interconnect hardware shall be readily accessible for maintenance, repair, replacement and/or reconfiguration.
+All system and application source code shall be available to or on the systems that execute it.
+All software application modules shall be debuggable.
+All software processes shall be killable, restartable, debuggable and testable without affecting normal operations.
+Software tools and pre-built applications that do not have source code available shall come with a complete diagnostic package and customer support.
+Operating system software shall either have source code available or come with sufficient diagnostics and customer support.
+I/O, communications, and processing hardware shall be easily expandable, reconfigurable, augmentable and replaceable to meet increasing data transfer and processing demands imposed by EVLA science, Correlator changes, and availability of new hardware.
+The Backend system shall ultimately be scalable to an extent that it will be capable of handling up to two Gbytes per second per Correlator output channel in real-time.
+The system shall continue operations, although not necessarily at full capacity, on all unaffected resources during partial shutdowns for maintenance, repair and/or upgrade.
+The system shall be able to handle non-real-time operations in a transparent fashion.
+Modular design principles shall be employed to the maximum extent possible.
+Maximal practical use of available hotswappable devices and components shall be made.

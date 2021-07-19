@@ -1,0 +1,3 @@
+[submodule "LAL-Parser"]
+	path = LAL-Parser
+	url = https://github.com/KhalilMrini/LAL-Parser.git
